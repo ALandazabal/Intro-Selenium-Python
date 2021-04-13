@@ -1,5 +1,10 @@
 #envs
 selenium_platzi
+__pycache__/
 
 #extensions
 chromedriver.exe
+
+#docs
+notes.docx
+~*
